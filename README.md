@@ -36,7 +36,7 @@ export default ({}) => {
 <img src="./images/upper.png" height="60">
 -点击下拉，自动展开:
 
-<img src="./images/down.png" height="120" >
+<img src="./images/down.png" height="140" >
 
 ## 属性
 | 名称             | 类型    | 描述    |
