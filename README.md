@@ -31,10 +31,12 @@ export default ({}) => {
   )
 }
 ```
--超过设定行数，自动折叠：＜/br＞
+-超过设定行数，自动折叠:
+
 <img src="./images/upper.png" height="60">
--点击下拉，自动展开: ＜/br＞
-<img src="./images/down.png" height="100" >
+-点击下拉，自动展开:
+
+<img src="./images/down.png" height="120" >
 
 ## 属性
 | 名称             | 类型    | 描述    |
