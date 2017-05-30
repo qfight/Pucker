@@ -30,11 +30,11 @@ export default ({}) => {
     </View>
   )
 }
+```
 超过设定行数，自动折叠：
-<img src="./images/down.png" height="800">
+<img src="./images/down.png" height="80">
 点击下拉，自动展开
 <img src="./images/upper.png" height="120">
-```
 
 ## 属性
 | 名称             | 类型    | 描述    |
