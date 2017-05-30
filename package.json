@@ -1,6 +1,6 @@
 {
   "name": "rn-pucker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "pucker of the text content when exceed the specified scope",
   "main": "index.js",
   "directories": {
