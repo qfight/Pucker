@@ -33,10 +33,10 @@ export default ({}) => {
 ```
 ### 3.1 超过设定行数，自动折叠:
 
-<img src="./images/upper.png" height="60">
+<img src="https://github.com/qfight/Pucker/blob/master/images/upper.png" height="60">
 
 ### 3.2 点击下拉，自动展开:
-<img src="./images/down.png" height="160" >
+<img src="https://github.com/qfight/Pucker/blob/master/images/down.png" height="160" >
 
 ## 4.属性
 | 名称             | 类型    | 描述    |
