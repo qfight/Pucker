@@ -41,3 +41,4 @@ export default ({}) => {
 | style           | Object | 组件样式 |
 
 ## License
+[MIT License](https://github.com/qfight/Pucker/blob/master/LICENSE)
