@@ -1,0 +1,26 @@
+{
+  "name": "rn-pucker",
+  "version": "1.0.0",
+  "description": "pucker of the text content when exceed the specified scope",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qfight/Pucker.git"
+  },
+  "keywords": [
+    "pucker",
+    "react-native"
+  ],
+  "author": "jacklin",
+  "license": "MIT\t",
+  "bugs": {
+    "url": "https://github.com/qfight/Pucker/issues"
+  },
+  "homepage": "https://github.com/qfight/Pucker#readme"
+}
